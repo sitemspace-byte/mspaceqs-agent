@@ -1,5 +1,5 @@
-import { AuthenticatedAgentChat } from "./_components/authenticated-agent-chat";
+import { Estimator } from "./_components/estimator/estimator";
 
 export default function Page() {
-  return <AuthenticatedAgentChat />;
+  return <Estimator />;
 }
